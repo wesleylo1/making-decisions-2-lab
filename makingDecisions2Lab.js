@@ -105,7 +105,7 @@ console.log(someNum)
 if (myFavoriteNumbers.length < 7) {
   console.log("There are not enough elements in this array")
 } else {
-  let someNum = myFavoriteNumbers[8]
+  let someNum = myFavoriteNumbers[6]
 }
 
 ////////// PROBLEM 8 //////////
